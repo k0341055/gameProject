@@ -9,3 +9,7 @@
 >> 陳中毅 0231077
 
 >> 賈振暉 0412016
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+![SLHS](slhs-logo.jpg "士林高商")
